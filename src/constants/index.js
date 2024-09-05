@@ -132,7 +132,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Portfolio',
         description: 'Built a complete 3d and animated portfolio .',
-        link: 'https://courageous-swan-99685b.netlify.app/',
+        link: 'https://github.com/praveshnexus/portfolio',
     },
     
 ];
